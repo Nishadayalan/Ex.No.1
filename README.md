@@ -559,11 +559,10 @@ The model is tested using benchmarks, then deployed into applications such as ch
 In simple words
 An LLM is built by feeding huge amounts of text into a Transformer-based neural network, training it to predict the next token, and then fine-tuning it so it can answer questions and follow instructions better.
 
-# Result
+# Conclusion
 
 Based on the comparison, ChatGPT performed better than Perplexity for explaining the foundational concepts of Generative AI. It provided a more comprehensive, well-structured, and beginner-friendly explanation, covering all the essential topics required for academic understanding. Perplexity also gave accurate information and introduced modern concepts such as Foundation Models and Retrieval-Augmented Generation (RAG), but its response was more concise and omitted some fundamental concepts like Deep Learning and Neural Networks.
 
-Overall, ChatGPT is more suitable for detailed academic and engineering learning, while Perplexity is better for quick and concise explanations.
 ## Overall Comparison
 
 | Criteria | ChatGPT | Perplexity | Reason |
@@ -574,4 +573,6 @@ Overall, ChatGPT is more suitable for detailed academic and engineering learning
 | Reasoning | **9/10** | **8/10** | ChatGPT connects concepts logically, while Perplexity explains them individually with less flow. |
 | Speed | **9/10** | **10/10** | Perplexity generally provides shorter, faster responses. ChatGPT is slightly more detailed. |
 | Engineering Usefulness | **9.5/10** | **8.5/10** | ChatGPT is more suitable for engineering students due to its comprehensive coverage and structured explanation. Perplexity is better for quick reference. |
-| **Overall Rating** | **9.3/10** | **8.8/10** | ChatGPT provides a more comprehensive and structured explanation, while Perplexity is better for quick and concise summaries. |
+| **Overall Rating** | **9.3/10** | **8.8/10** | ChatGPT provides a more comprehensive and structured explanation, while Perplexity is better for quick and concise summaries. | 
+
+Overall, ChatGPT is more suitable for detailed academic and engineering learning, while Perplexity is better for quick and concise explanations.
