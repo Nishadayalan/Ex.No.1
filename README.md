@@ -59,6 +59,19 @@ ________________________________________
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
+## Prompt
+
+1 Act as an AI professor and explain the foundational concepts of Generative AI in a clear, beginner-friendly manner. Include an objective, a brief introduction, core concepts such as AI, Machine Learning, Deep Learning, Neural Networks, Large Language Models (LLMs), Transformer Architecture, Prompts, and Tokens, followed by their applications.
+________________________________________
+2 Act as an AI expert and explain the major Generative AI architectures with a primary focus on the Transformer architecture. Describe Transformers, GANs, VAEs, and Diffusion Models, explain the key components and working of Transformers, compare their advantages, and include a clear architecture diagram.
+________________________________________
+3 Act as a technical writer and explain the complete architecture of a Generative AI system. Describe the workflow from user prompt to output generation, including tokenization, embeddings, positional encoding, Transformer model, self-attention, and output generation. Also explain its real-world applications, advantages, and include a professional architecture diagram
+________________________________________
+4 Act as a Machine Learning professor and explain the impact of scaling in Large Language Models (LLMs). Describe how model size, training data, and computing resources influence performance, reasoning, multilingual capabilities, and code generation. Include advantages, challenges, real-world examples, and a detailed architecture diagram illustrating the scaling process.
+________________________________________
+5 Act as an AI engineer and explain what a Large Language Model (LLM) is and how it is built. Describe each stage, including data collection, preprocessing, tokenization, Transformer-based training, fine-tuning, evaluation, deployment, and inference. Include applications, advantages, limitations, and a detailed architecture diagram.
+________________________________________
+
 
 
 # Output
@@ -706,6 +719,8 @@ Scaling has significantly improved many Generative AI applications across differ
 ## Conclusion
 
 The impact of scaling is one of the main reasons behind the success of modern Large Language Models. Increasing model size, training data, and computational power enables AI systems to generate more accurate, intelligent, and context-aware responses. Although scaling introduces challenges such as higher costs and infrastructure complexity, it continues to drive innovation and expand the capabilities of Generative AI across various industries.
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-25 at 10 03 40 AM" src="https://github.com/user-attachments/assets/ad7d21d4-5db4-4018-9595-d6e9ff7ae7be" />
+
 
 # 5.     Explain about LLM and how it is build. 
 
@@ -810,12 +825,12 @@ Although LLMs are highly capable, they also have certain limitations. They may g
 
 ---
 
-## Conclusion
-
 Large Language Models are among the most significant advancements in Artificial Intelligence. Built using the Transformer architecture and trained on massive text datasets, they can understand and generate human language with remarkable accuracy. From chatbots and coding assistants to translation and enterprise applications, LLMs continue to transform industries and drive the future of Generative AI.
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-25 at 10 04 07 AM" src="https://github.com/user-attachments/assets/7df2a4e3-9c64-4abc-b36e-71514874237f" />
 
 
-# Conclusion
+
+## Conclusion
 
 Based on the comparison, ChatGPT performed better than Perplexity for explaining the foundational concepts of Generative AI. It provided a more comprehensive, well-structured, and beginner-friendly explanation, covering all the essential topics required for academic understanding. Perplexity also gave accurate information and introduced modern concepts such as Foundation Models and Retrieval-Augmented Generation (RAG), but its response was more concise and omitted some fundamental concepts like Deep Learning and Neural Networks.
 
